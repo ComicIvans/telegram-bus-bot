@@ -1,0 +1,5 @@
+{
+    "name": "telegram-bus-bot",
+    "type": "commonjs",
+    "private": true
+}
